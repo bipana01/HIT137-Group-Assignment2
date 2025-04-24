@@ -50,7 +50,7 @@ turtle.speed('fastest')         # turtle set up
  # Set background color
 turtle.left(90)  # Point upwards
 turtle.up()
-turtle.goto(0, -250)
+turtle.goto(0, -250) #Point downwards
 turtle.down()
 
 # Draw tree
