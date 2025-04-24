@@ -1,4 +1,10 @@
-#Recursive function togenerate a tree pattern using Python's turtle graphics.
+# Recursive function togenerate a tree pattern using Python's turtle graphics.
+            # Group CAS/DAN 05
+            # Group Members
+        # Bipana Tripathee [SID: s388875] 
+        # Elijah Balanon Cantoria [SID: s358778] 
+        # Sakshi Sakshi [SID: s386993] 
+        # Shreeya Regmi [SID: s390356] 
 
 import turtle
 
