@@ -1,3 +1,11 @@
+        #reads the text file “raw_text.txt”, encrypts its contents using a simple encryption method, and writes the encrypted text to a new file “encrypted_text.txt”. Then create a function to decrypt the content, and a function to check the correctness of decrypted text :
+        
+        # Group CAS/DAN 05
+        # Group Members
+        # Bipana Tripathee [SID: s388875] 
+        # Elijah Balanon Cantoria [SID: s358778] 
+        # Sakshi Sakshi [SID: s386993] 
+        # Shreeya Regmi [SID: s390356] 
 def encrypt(raw, n, m):
     encrypted = ''
     for c in raw:
